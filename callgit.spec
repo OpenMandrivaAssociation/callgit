@@ -1,6 +1,6 @@
 Name:		callgit
 Version:	2.1
-Release:	%mkrel 1
+Release:	2
 Summary:	A tool for Ham Radio Operators to look up call-signs on the web
 Group:		Communications
 License:	GPLv3
