@@ -4,7 +4,7 @@ Release:	2
 Summary:	A tool for Ham Radio Operators to look up call-signs on the web
 Group:		Communications
 License:	GPLv3
-URL:		http://www.hamsoftware.org/
+URL:		https://www.hamsoftware.org/
 Source0:	http://www.hamsoftware.org/%{name}-%{version}.tgz
 #Icon from Fedora
 Source1:	Ham_Icon-1-48.png
